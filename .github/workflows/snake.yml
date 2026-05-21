@@ -29,8 +29,8 @@ jobs:
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
             # custom SVG (light palette)
             dist/github-contribution-grid-snake-custom.svg?color_dots=%23e6f4ea,%23c7f0d1,%2390e38b,%232fb44b,%230f6b2a&color_bg=%23ffffff&color_grid=%23e6e6e6
-            # generate a GIF with a black snake and slower animation (speed param may be supported by the action)
-            dist/ocean.gif?color_snake=%23000000&color_dots=%23e6f4ea,%23c7f0d1,%2390e38b,%232fb44b,%230f6b2a&speed=2
+            # generate a GIF with a black snake
+            dist/ocean.gif?color_snake=%23000000&color_dots=%23e6f4ea,%23c7f0d1,%2390e38b,%232fb44b,%230f6b2a
 
       - name: Push snake animation to output branch
         uses: crazy-max/ghaction-github-pages@v3
