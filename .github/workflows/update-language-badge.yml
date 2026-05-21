@@ -16,6 +16,9 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+          persist-credentials: true
 
       - name: Check repository languages
         id: check
@@ -42,6 +45,8 @@ jobs:
         if: steps.check.outputs.status == 'none'
         run: |
           echo "GitHub reports no languages; updating README badge to manual label."
+          echo "--- README before ---"
+          sed -n '1,240p' README.md || true
           python3 - <<'PY'
             import re
             from pathlib import Path
@@ -63,6 +68,8 @@ jobs:
             else:
                 print('Top-language badge not found in README; nothing to replace')
             PY
+                  echo "--- README after ---"
+                  sed -n '1,240p' README.md || true
 
       - name: Commit and push changes
         if: steps.check.outputs.status == 'none'
@@ -83,4 +90,9 @@ jobs:
           echo "Pushing to branch: $branch"
           repo="${{ github.repository }}"
           git remote set-url origin "https://x-access-token:${GITHUB_TOKEN}@github.com/${repo}.git"
+          set -x
           git push origin HEAD:$branch
+          echo "--- git status ---"
+          git status --short || true
+          echo "--- last commit ---"
+          git --no-pager log -1 --pretty=fuller || true

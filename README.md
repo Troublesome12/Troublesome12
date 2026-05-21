@@ -120,7 +120,7 @@
   <img src="https://img.shields.io/github/last-commit/Troublesome12/Troublesome12?style=flat" alt="Last commit" />
 </p>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Troublesome12&theme=github-dark-blue&hide_border=true" width="750" alt="Streak stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Troublesome12&theme=github-dark-blue&hide_border=true" width="650" alt="Streak stats" />
 </p>
 
 ---
@@ -160,16 +160,16 @@
     <img src="https://img.shields.io/static/v1?style=for-the-badge&message=LinkedIn&color=0A66C2&logo=linkedin&logoColor=white&label=" alt="LinkedIn" height="32" />
   </a>
   &nbsp;
-  <a href="https://www.facebook.com/YOUR_FACEBOOK_USERNAME" target="_blank">
-    <img src="https://img.shields.io/badge/facebook-1877F2?style=flat&logo=facebook&logoColor=white&labelColor=1877F2" alt="Facebook" height="32" />
+  <a href="https://www.facebook.com/md.doffy" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/static/v1?style=for-the-badge&message=facebook&color=1877F2&logo=facebook&logoColor=white&label=" alt="Facebook" height="32" />
   </a>
   &nbsp;
-  <a href="mailto:sharifultroublesome@gmail.com">
-    <img src="https://img.shields.io/badge/gmail-D14836?style=flat&logo=gmail&logoColor=white&labelColor=D14836" alt="Gmail" height="32" />
+  <a href="mailto:sharifultroublesome@gmail.com" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/static/v1?style=for-the-badge&message=gmail&color=D14836&logo=gmail&logoColor=white&label=" alt="Gmail" height="32" />
   </a>
-   &nbsp;
+  &nbsp;
   <a href="https://github.com/Troublesome12/Troublesome12/raw/main/resume/Arafat_Resume.pdf" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/static/v1?style=flat&message=Download%20Resume&color=238636&label=" alt="Download Resume" height="32" />
+    <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Download%20Resume&color=238636&logo=google-drive&logoColor=white&label=" alt="Download Resume" height="32" />
   </a>
   <br/><br/>
  
