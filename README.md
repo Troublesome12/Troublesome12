@@ -154,7 +154,7 @@
 </p>
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Troublesome12&theme=github-dark-blue&hide_border=true" style="width: 100%; height: auto;" alt="Streak stats" />
-</p>
+</p><br/>
 
 
 <div align="center">
