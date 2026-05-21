@@ -105,10 +105,10 @@
  
 | Project | Description | Tech |
 |---|---|---|
-| [Secure Overlay Chat Protocol](https://github.com/Troublesome12/Secure-Overlay-Chat-Protocol) | SOCP implementation with WebSockets | Python, WebSockets |
-| [IntelSearchEngine](https://github.com/Troublesome12/IntelSearchEngin) | Intelligent search engine | PL/SQL |
-| [UiuElms](https://github.com/Troublesome12/UiuElms) | University ELM management system | PHP |
-| [ChatRoom](https://github.com/Troublesome12/ChatRoom) | Real-time chat application | Java |
+| <a href="https://github.com/Troublesome12/Secure-Overlay-Chat-Protocol" target="_blank" rel="noopener noreferrer">Secure Overlay Chat Protocol</a> | SOCP implementation with WebSockets | Python, WebSockets |
+| <a href="https://github.com/Troublesome12/IntelSearchEngin" target="_blank" rel="noopener noreferrer">IntelSearchEngine</a> | Intelligent search engine | PL/SQL |
+| <a href="https://github.com/Troublesome12/UiuElms" target="_blank" rel="noopener noreferrer">UiuElms</a> | University ELM management system | PHP |
+| <a href="https://github.com/Troublesome12/ChatRoom" target="_blank" rel="noopener noreferrer">ChatRoom</a> | Real-time chat application | Java |
  
 ---
 
@@ -147,17 +147,15 @@
   <img src="https://img.shields.io/github/languages/top/Troublesome12/Troublesome12?color=238636&style=flat" alt="Top language" />
   &nbsp;
   <img src="https://img.shields.io/github/last-commit/Troublesome12/Troublesome12?style=flat" alt="Last commit" />
+  &nbsp;
+  <img src="https://komarev.com/ghpvc/?username=Troublesome12&label=Profile+Views&color=fd1d1d&style=flat" />
 </p>
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Troublesome12&theme=github-dark-blue&hide_border=true" style="width: 100%; height: auto;" alt="Streak stats" />
 </p>
 
----
- 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Troublesome12&label=Profile+Views&color=fd1d1d&style=flat" />
-  <br/><br/>
 
+<div align="center">
   <a href="https://www.linkedin.com/in/doffy" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/static/v1?style=for-the-badge&message=LinkedIn&color=0A66C2&logo=linkedin&logoColor=white&label=" alt="LinkedIn" height="32" />
   </a>
