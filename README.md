@@ -142,13 +142,13 @@
 ## 📊 GitHub Stats
  
 <p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Troublesome12&label=Profile+Views&color=fd1d1d&style=flat" />
+  &nbsp;
   <img src="https://img.shields.io/github/followers/Troublesome12?label=Followers&style=social" alt="Followers" />
   &nbsp;
   <img src="https://img.shields.io/github/languages/top/Troublesome12/Troublesome12?color=238636&style=flat" alt="Top language" />
   &nbsp;
   <img src="https://img.shields.io/github/last-commit/Troublesome12/Troublesome12?style=flat" alt="Last commit" />
-  &nbsp;
-  <img src="https://komarev.com/ghpvc/?username=Troublesome12&label=Profile+Views&color=fd1d1d&style=flat" />
 </p>
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Troublesome12&theme=github-dark-blue&hide_border=true" style="width: 100%; height: auto;" alt="Streak stats" />
@@ -159,16 +159,19 @@
   <a href="https://www.linkedin.com/in/doffy" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/static/v1?style=for-the-badge&message=LinkedIn&color=0A66C2&logo=linkedin&logoColor=white&label=" alt="LinkedIn" height="32" />
   </a>
+  &nbsp;
   <a href="https://www.facebook.com/md.doffy" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/static/v1?style=for-the-badge&message=facebook&color=1877F2&logo=facebook&logoColor=white&label=" alt="Facebook" height="32" />
   </a>
+  &nbsp;
   <a href="mailto:sharifultroublesome@gmail.com" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/static/v1?style=for-the-badge&message=gmail&color=D14836&logo=gmail&logoColor=white&label=" alt="Gmail" height="32" />
   </a>
+  &nbsp;
   <a href="https://drive.google.com/file/d/1Vi4JuCeBgzi2nfIR57hBEkFHFa_KciXP/view?usp=sharing" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Download%20Resume&color=238636&logo=google-drive&logoColor=white&label=" alt="Download Resume" height="32" />
   </a>
-  <br/><br/>
+  <br/>
  
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a365d,50:2c5282,100:1a365d&height=80&section=footer&text=Thank%20you%20for%20visiting&fontSize=14&fontColor=ffffff&fontFamily=Hack,monospace&animation=fadeIn&reversal=true" />
 </div>
