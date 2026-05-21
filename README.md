@@ -1,7 +1,3 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a365d,50:2c5282,100:1a365d&height=160&section=header&text=Sk%20Md%20Shariful%20Islam%20Arafat&fontSize=32&fontColor=ffffff&fontFamily=Hack,monospace&animation=fadeIn&desc=Senior%20Software%20Engineer%20%7C%20Backend%20Team%20Lead&descSize=16&descAlignY=74&fontAlignY=42" />
-</div>
-<br/>
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Hack&size=20&pause=1000&color=63b3ed&center=true&vCenter=true&width=750&lines=7%2B+Years+in+Backend+%7C+Cloud+%7C+DevOps+%7C+Fintech;Python+%7C+Django+%7C+Kubernetes+%7C+Apache+Kafka;GenAI+%7C+LLMs+%7C+LangChain+%7C+Microservices;Open+to+exciting+opportunities+%F0%9F%9A%80" alt="Typing SVG" />
 </p>
@@ -174,6 +170,4 @@
     <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Download%20Resume&color=238636&logo=google-drive&logoColor=white&label=" alt="Download Resume" height="32" />
   </a>
   <br/>
- 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a365d,50:2c5282,100:1a365d&height=80&section=footer&text=Thank%20you%20for%20visiting&fontSize=14&fontColor=ffffff&fontFamily=Hack,monospace&animation=fadeIn&reversal=true" />
 </div>
