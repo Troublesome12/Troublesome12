@@ -8,8 +8,7 @@
   <img src="https://raw.githubusercontent.com/Troublesome12/Troublesome12/output/ocean.gif" alt="Contribution Snake" />
 </p>
 
----
- 
+
 ## 🧑‍💻 About Me
  
 - 🏢 **Currently:** MSc Computer Science student at **University of Adelaide** (2025–2026)
@@ -19,7 +18,7 @@
 - 🤖 **AI/ML:** Hands-on with **LLMs, OpenAI API, LangChain** & Recommender Systems in production
 - ☁️ **DevOps:** **Kubernetes, Helm, Flux, GitHub Actions, Azure Pipelines, AWS**
 - 📨 **Messaging:** **Apache Kafka**, Redis, Celery for event-driven architectures
-- 📜 **Certified:** PCAP™ Certified Python Programmer | ITIL® 4 Foundation
+- 📜 **Certifications:** PCAP™ Certified Python Programmer | ITIL® 4 Foundation
 - 📚 **Published:** IEEE WIECON-ECE 2018 & IEMIS 2018 conference papers
 - 🌍 **Languages:** Bangla (Native) · English (Fluent) · Hindi (Proficient)
 - 📬 **Reach me:** sharifultroublesome@gmail.com
