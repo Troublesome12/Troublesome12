@@ -120,7 +120,7 @@
   <img src="https://img.shields.io/github/last-commit/Troublesome12/Troublesome12?style=flat" alt="Last commit" />
 </p>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Troublesome12&theme=github-dark-blue&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Troublesome12&theme=github-dark-blue&hide_border=true" width="750" alt="Streak stats" />
 </p>
 
 ---
