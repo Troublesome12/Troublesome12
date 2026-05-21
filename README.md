@@ -7,6 +7,7 @@
   <!-- prefer the generated GIF so animation is visible; the workflow writes this to `output/ocean.gif` -->
   <img src="https://raw.githubusercontent.com/Troublesome12/Troublesome12/output/ocean.gif" alt="Contribution Snake" />
 </p>
+
 ---
  
 ## 🧑‍💻 About Me
