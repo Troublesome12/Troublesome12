@@ -1,10 +1,11 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:833ab4,33:fd1d1d,66:fcb045,100:00c6ff&height=200&section=header&text=Sk%20Md%20Shariful%20Islam%20Arafat&fontSize=38&fontColor=ffffff&animation=twinkling&stroke=ffffff&strokeWidth=1&desc=Senior%20Software%20Engineer%20%7C%20Backend%20Team%20Lead&descSize=18&descAlignY=72&fontAlignY=45" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a365d,50:2c5282,100:1a365d&height=160&section=header&text=Sk%20Md%20Shariful%20Islam%20Arafat&fontSize=32&fontColor=ffffff&fontFamily=Hack,monospace&animation=fadeIn&desc=Senior%20Software%20Engineer%20%7C%20Backend%20Team%20Lead&descSize=16&descAlignY=74&fontAlignY=42" />
 </div>
 <br/>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=fcb045&center=true&vCenter=true&width=750&lines=7%2B+Years+in+Backend+%7C+Cloud+%7C+DevOps+%7C+Fintech;Python+%7C+Django+%7C+Kubernetes+%7C+Apache+Kafka;GenAI+%7C+LLMs+%7C+LangChain+%7C+Microservices;Open+to+exciting+opportunities+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Hack&size=20&pause=1000&color=63b3ed&center=true&vCenter=true&width=750&lines=7%2B+Years+in+Backend+%7C+Cloud+%7C+DevOps+%7C+Fintech;Python+%7C+Django+%7C+Kubernetes+%7C+Apache+Kafka;GenAI+%7C+LLMs+%7C+LangChain+%7C+Microservices;Open+to+exciting+opportunities+%F0%9F%9A%80" alt="Typing SVG" />
 </p>
+
 ---
  
 ## 🙋‍♂️ About Me
@@ -26,48 +27,48 @@
  
 **Languages**
  
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54)
+![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E?style=flat&logo=javascript&logoColor=black)
+![PHP](https://img.shields.io/badge/php-777BB4?style=flat&logo=php&logoColor=white)
+![Java](https://img.shields.io/badge/java-ED8B00?style=flat&logo=openjdk&logoColor=white)
  
 **Backend Frameworks**
  
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Django](https://img.shields.io/badge/django-%23092E20?style=flat&logo=django&logoColor=white)
+![Flask](https://img.shields.io/badge/flask-000000?style=flat&logo=flask&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat&logo=fastapi&logoColor=white)
+![Laravel](https://img.shields.io/badge/laravel-FF2D20?style=flat&logo=laravel&logoColor=white)
+![React](https://img.shields.io/badge/react-20232A?style=flat&logo=react&logoColor=61DAFB)
  
 **Generative AI & LLMs**
  
-![OpenAI](https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logo=openai&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
-![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-FF6B6B?style=for-the-badge&logo=openai&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white)
+![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-FF6B6B?style=flat&logo=openai&logoColor=white)
  
 **Messaging & Streaming**
  
-![Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![Celery](https://img.shields.io/badge/Celery-37814A?style=for-the-badge&logo=celery&logoColor=white)
+![Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat&logo=apachekafka&logoColor=white)
+![Redis](https://img.shields.io/badge/redis-DC382D?style=flat&logo=redis&logoColor=white)
+![Celery](https://img.shields.io/badge/celery-37814A?style=flat&logo=celery&logoColor=white)
  
 **Databases**
  
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![MSSQL](https://img.shields.io/badge/MSSQL-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/postgresql-316192?style=flat&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-4479A1?style=flat&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/mongodb-47A248?style=flat&logo=mongodb&logoColor=white)
+![MSSQL](https://img.shields.io/badge/MSSQL-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white)
  
 **Cloud & DevOps**
  
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Helm](https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
-![Azure Pipelines](https://img.shields.io/badge/Azure_Pipelines-0078D7?style=for-the-badge&logo=azurepipelines&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![ELK Stack](https://img.shields.io/badge/ELK_Stack-005571?style=for-the-badge&logo=elasticstack&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
+![Helm](https://img.shields.io/badge/helm-0F1689?style=flat&logo=helm&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
+![Azure Pipelines](https://img.shields.io/badge/Azure%20Pipelines-0078D7?style=flat&logo=azurepipelines&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat&logo=amazonaws&logoColor=white)
+![Linux](https://img.shields.io/badge/linux-FCC624?style=flat&logo=linux&logoColor=black)
+![ELK Stack](https://img.shields.io/badge/ELK%20Stack-005571?style=flat&logo=elasticstack&logoColor=white)
  
 ---
  
@@ -142,6 +143,7 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/Troublesome12/Troublesome12/output/github-contribution-grid-snake-dark.svg" />
 </p>
+
 ---
  
 <div align="center">
@@ -149,23 +151,58 @@
   <br/><br/>
  
   ### 🤝 Connect & Download
- 
-  <a href="https://www.linkedin.com/in/doffy" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+
+  <a href="https://www.linkedin.com/in/doffy" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/static/v1?style=for-the-badge&message=LinkedIn&color=0A66C2&logo=linkedin&logoColor=white&label=" alt="LinkedIn" height="32" />
   </a>
   &nbsp;
   <a href="https://www.facebook.com/YOUR_FACEBOOK_USERNAME" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+    <img src="https://img.shields.io/badge/facebook-1877F2?style=flat&logo=facebook&logoColor=white&labelColor=1877F2" alt="Facebook" height="28" />
   </a>
   &nbsp;
   <a href="mailto:sharifultroublesome@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  &nbsp;
-  <a href="https://github.com/Troublesome12/Troublesome12/raw/main/resume/Arafat_Resume.pdf">
-    <img src="https://img.shields.io/badge/⬇️%20Download%20Resume-238636?style=for-the-badge&logo=docusign&logoColor=white" />
+    <img src="https://img.shields.io/badge/gmail-D14836?style=flat&logo=gmail&logoColor=white&labelColor=D14836" alt="Gmail" height="28" />
   </a>
   <br/><br/>
+
+  <style>
+    .resume-btn-border {
+      display: inline-block;
+      padding: 3px;
+      border-radius: 999px;
+      background: linear-gradient(90deg, #08f, #f03, #08f);
+      background-size: 220% 100%;
+      animation: resume-border-shift 2.4s linear infinite;
+    }
+
+    .resume-btn-inner {
+      display: inline-block;
+      padding: 10px 24px;
+      border-radius: 999px;
+      background: transparent;
+      color: #ffffff;
+      font-family: Hack, Consolas, monospace;
+      font-size: 14px;
+      font-weight: 700;
+      text-decoration: none;
+      letter-spacing: 0.2px;
+    }
+
+    .resume-btn-border:hover {
+      animation-play-state: paused;
+    }
+
+    @keyframes resume-border-shift {
+      to {
+        background-position: 220% 0;
+      }
+    }
+  </style>
+
+  <span class="resume-btn-border">
+    <a class="resume-btn-inner" href="https://github.com/Troublesome12/assets/resume/Arafat Resume.pdf" target="_blank" rel="noopener noreferrer">Download Resume</a>
+  </span>
+  <br/><br/>
  
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:00c6ff,33:fcb045,66:fd1d1d,100:833ab4&height=100&section=footer&reversal=true" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a365d,50:2c5282,100:1a365d&height=80&section=footer&text=Thank%20you%20for%20visiting&fontSize=14&fontColor=ffffff&fontFamily=Hack,monospace&animation=fadeIn&reversal=true" />
 </div>
