@@ -1,0 +1,86 @@
+name: Ensure Top-Language Badge
+
+on:
+  push: {}
+  schedule:
+    - cron: '0 2 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update-badge:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Check repository languages
+        id: check
+        run: |
+          set -euo pipefail
+          echo "Checking languages for $GITHUB_REPOSITORY"
+          resp=$(curl -sS -H "Accept: application/vnd.github+json" "https://api.github.com/repos/${{ github.repository }}/languages") || true
+          echo "response: $resp"
+          if [ -z "$resp" ] || [ "$resp" = "{}" ]; then
+            if [ -n "${GITHUB_OUTPUT:-}" ]; then
+              echo "status=none" >> "$GITHUB_OUTPUT"
+            else
+              echo "status=none"
+            fi
+          else
+            if [ -n "${GITHUB_OUTPUT:-}" ]; then
+              echo "status=some" >> "$GITHUB_OUTPUT"
+            else
+              echo "status=some"
+            fi
+          fi
+
+      - name: Replace top-language badge when none
+        if: steps.check.outputs.status == 'none'
+        run: |
+          echo "GitHub reports no languages; updating README badge to manual label."
+          python3 - <<'PY'
+            import re
+            from pathlib import Path
+
+            readme = Path('README.md')
+            txt = readme.read_text(encoding='utf-8')
+
+            # Match the shields.io top-langs img line (flexible to minor variations)
+            pattern = re.compile(r'<img[^>]+github/languages/top[^>]*>', re.I)
+            replacement = '<img src="https://img.shields.io/badge/Top%20language-Python-238636?style=flat" alt="Top language" />'
+
+            if pattern.search(txt):
+                new = pattern.sub(replacement, txt)
+                if new != txt:
+                    readme.write_text(new, encoding='utf-8')
+                    print('README updated')
+                else:
+                    print('No change needed')
+            else:
+                print('Top-language badge not found in README; nothing to replace')
+            PY
+
+      - name: Commit and push changes
+        if: steps.check.outputs.status == 'none'
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          set -euo pipefail
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add README.md || true
+          if git diff --cached --quiet; then
+            echo "No changes to commit"
+            exit 0
+          fi
+          git commit -m "chore: set manual top-language badge when GitHub reports none"
+          # determine branch to push to (current checked-out branch)
+          branch=$(git rev-parse --abbrev-ref HEAD || echo "${{ github.ref_name }}")
+          echo "Pushing to branch: $branch"
+          repo="${{ github.repository }}"
+          git remote set-url origin "https://x-access-token:${GITHUB_TOKEN}@github.com/${repo}.git"
+          git push origin HEAD:$branch
