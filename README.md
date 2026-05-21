@@ -113,8 +113,11 @@
 ## 📊 GitHub Stats
  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Troublesome12&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true" height="175" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Troublesome12&layout=compact&theme=github_dark&hide_border=true" height="175" />
+  <img src="https://img.shields.io/github/followers/Troublesome12?label=Followers&style=social" alt="Followers" />
+  &nbsp;
+  <img src="https://img.shields.io/github/languages/top/Troublesome12/Troublesome12?color=238636&style=flat" alt="Top language" />
+  &nbsp;
+  <img src="https://img.shields.io/github/last-commit/Troublesome12/Troublesome12?style=flat" alt="Last commit" />
 </p>
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Troublesome12&theme=github-dark-blue&hide_border=true" />
@@ -158,51 +161,16 @@
   </a>
   &nbsp;
   <a href="https://www.facebook.com/YOUR_FACEBOOK_USERNAME" target="_blank">
-    <img src="https://img.shields.io/badge/facebook-1877F2?style=flat&logo=facebook&logoColor=white&labelColor=1877F2" alt="Facebook" height="28" />
+    <img src="https://img.shields.io/badge/facebook-1877F2?style=flat&logo=facebook&logoColor=white&labelColor=1877F2" alt="Facebook" height="32" />
   </a>
   &nbsp;
   <a href="mailto:sharifultroublesome@gmail.com">
-    <img src="https://img.shields.io/badge/gmail-D14836?style=flat&logo=gmail&logoColor=white&labelColor=D14836" alt="Gmail" height="28" />
+    <img src="https://img.shields.io/badge/gmail-D14836?style=flat&logo=gmail&logoColor=white&labelColor=D14836" alt="Gmail" height="32" />
   </a>
-  <br/><br/>
-
-  <style>
-    .resume-btn-border {
-      display: inline-block;
-      padding: 3px;
-      border-radius: 999px;
-      background: linear-gradient(90deg, #08f, #f03, #08f);
-      background-size: 220% 100%;
-      animation: resume-border-shift 2.4s linear infinite;
-    }
-
-    .resume-btn-inner {
-      display: inline-block;
-      padding: 10px 24px;
-      border-radius: 999px;
-      background: transparent;
-      color: #ffffff;
-      font-family: Hack, Consolas, monospace;
-      font-size: 14px;
-      font-weight: 700;
-      text-decoration: none;
-      letter-spacing: 0.2px;
-    }
-
-    .resume-btn-border:hover {
-      animation-play-state: paused;
-    }
-
-    @keyframes resume-border-shift {
-      to {
-        background-position: 220% 0;
-      }
-    }
-  </style>
-
-  <span class="resume-btn-border">
-    <a class="resume-btn-inner" href="https://github.com/Troublesome12/assets/resume/Arafat Resume.pdf" target="_blank" rel="noopener noreferrer">Download Resume</a>
-  </span>
+   &nbsp;
+  <a href="https://github.com/Troublesome12/Troublesome12/raw/main/resume/Arafat_Resume.pdf" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/static/v1?style=flat&message=Download%20Resume&color=238636&label=" alt="Download Resume" height="32" />
+  </a>
   <br/><br/>
  
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a365d,50:2c5282,100:1a365d&height=80&section=footer&text=Thank%20you%20for%20visiting&fontSize=14&fontColor=ffffff&fontFamily=Hack,monospace&animation=fadeIn&reversal=true" />
